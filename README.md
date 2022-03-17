@@ -4,8 +4,9 @@
     <h1>Joel Benton CV</h1>
     <p>Last Udated 17/03/2003</p>
 </div>
-
-# Personal Details
+<div align="center">7
+    # Personal Details
+</div>
 <div align="center">
   <b>Name</b>: Joel Benton<br>
   <b>Nationality</b>: English<br>
