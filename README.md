@@ -6,17 +6,14 @@
 </div>
 
 # Personal Details
-<div>
-    Name: <b>Joel Benton</b><br>
-    Nationality: <b>English</b><br>
-    Gender: <b>Male</b><br>
-Name: Joel Benton					
-Nationality: English
-Gender: Male					
-Driving Licence: Full
-Address: 27 Auckland Avenue, Ramsgate, Kent. CT12 6HZ
-Email: Joel2003@live.co.uk
-Mobile: 07309 858607
+<div align="center">
+  <b>Name</b>: Joel Benton<br>
+  <b>Nationality</b>: English<br>
+  <b>Gender</b>: Male<br>
+  <b>Driving Licence</b>: Full<br>
+  <b>Address</b>: 27 Auckland Avenue, Ramsgate, Kent CT12 6HZ<br>
+  <b>Email</b>: Joel2003@live.co.uk<br>
+  <b>Mobile</b>: 07309 858607
 </div>
     
 # Skills
