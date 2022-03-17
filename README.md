@@ -7,12 +7,12 @@
 
 <div align="center">
   <h1>Personal Details</h1>
-  <b>Name</b>: Joel Benton<br>
-  <b>Nationality</b>: English<br>
-  <b>Gender</b>: Male<br>
-  <b>Driving Licence</b>: Full<br>
-  <b>Address</b>: 27 Auckland Avenue, Ramsgate, Kent CT12 6HZ<br>
-  <b>Email</b>: <a href="mailto:Joel2003@live.co.uk">Joel2003@live.co.uk</a><br>
+  <b>Name</b>: Joel Benton
+  <b>Nationality</b>: English
+  <b>Gender</b>: Male
+  <b>Driving Licence</b>: Full
+  <b>Address</b>: 27 Auckland Avenue, Ramsgate, Kent CT12 6HZ
+  <b>Email</b>: <a href="mailto:Joel2003@live.co.uk">Joel2003@live.co.uk</a>
   <b>Mobile</b>: 07309 858607
 </div>
     
