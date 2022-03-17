@@ -24,36 +24,36 @@
     <p>I have Just started learning unity, my skills include making scripts and making basic maps using premade modules.</p><br>
     <h3>Time management</h3><br>
     <p>I ensure that I turn up on <br>time to whatever I have that day, for example university I will always make sure I get there on time with enough time spare in case anything happens.</p><br>
-    <h3>Organisation</h3><b<br>r>
+    <h3>Organisation</h3><br>
     <h3>Teamwork</h3>
 </div>
 
 
-
-# Education
-## King Ethelbert School 2014 – 2019
-BTEC      - Business Level 1&2 - Grade *2				
-D.I.D.A   - Certificate in Digital Apps Level 2 - Grade B			           
-D.I.D.A   - Digital Application UNIT 3 option F - Grade Equivalent 39B
-GCSE      - Mathematics option H - Grade 7 				
-AQA       - Combined Science Trilogy Tier H - Grades 66			
-AQA       - Geography - Grade 3					
-AQA       - English Language - Grade 4				
-AQA       - English Literature (Awaiting Remark) - Grade 3
-OCR       - Computer Science - Grade 5
-
-## Canterbury College 2019-2021
-Grade: Distinction, Merit, Merit
-Course: BTEC Level 3 National Extended Certificate in Computing.
-Modules: Fundamentals of Computing, System analysis and design, IT systems security and encryption, Website Development, Business applications of social media, Fundamentals of computer Systems.
-
-## Canterbury Christ Church University 2021 – current.
-Course: BSc (Hons) Computer Science
-Complete Modules: 
-Mathematics Of CS – 65
-Introduction to C# - 94.78
-Fundamentals of CS – 66.90
-
+<div>
+    <h1>Education</h1><br>
+    <h3>King Ethelbert School 2014 – 2019</h3>
+    <p>BTEC      - Business Level 1&2 - Grade *2</p>			
+    <p>D.I.D.A   - Certificate in Digital Apps Level 2 - Grade B</p>		           
+    <p>D.I.D.A   - Digital Application UNIT 3 option F - Grade Equivalent 39B</p>
+    <p>GCSE      - Mathematics option H - Grade 7</p>	
+    <p>AQA       - Combined Science Trilogy Tier H - Grades 66</p>			
+    <p>AQA       - Geography - Grade 3</p>					
+    <p>AQA       - English Language - Grade 4</p>			
+    <p>AQA       - English Literature (Awaiting Remark) - Grade 3</p>
+    <p>OCR       - Computer Science - Grade 5</p>
+    <br>
+    <h3>Canterbury College 2019-2021</h3>
+    <p>Grade: Distinction, Merit, Merit</p>
+    <p>Course: BTEC Level 3 National Extended Certificate in Computing.</p>
+    <p>Modules: Fundamentals of Computing, System analysis and design, IT systems security and encryption, Website Development, Business applications of social media,      Fundamentals of computer Systems.</p>
+    <br>
+    <h3>Canterbury Christ Church University 2021 – current.</h3>
+    <p>Course: BSc (Hons) Computer Science</p>
+    <p>Complete Modules:</p> 
+    <p>Mathematics Of CS – 65</p>
+    <p>Introduction to C# - 94.78</p>
+    <p>Fundamentals of CS – 66.90</p>
+</div>
 
 # Work Experience
 
