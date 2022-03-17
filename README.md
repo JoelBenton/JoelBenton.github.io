@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h1>Personal Details<h1>
+  <h1>Personal Details</h1>
   <b>Name</b>: Joel Benton<br>
   <b>Nationality</b>: English<br>
   <b>Gender</b>: Male<br>
@@ -16,15 +16,18 @@
   <b>Mobile</b>: 07309 858607
 </div>
     
-# Skills
-### Intermediate Coding in C# and Python
-   o	Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them. 
-### Beginner unity
-   o	I have Just started learning unity, my skills include making scripts and making basic maps using premade modules.
-### Time management
-   o	I ensure that I turn up on time to whatever I have that day, for example university I will always make sure I get there on time with enough time spare in case anything happens.
-### Organisation
-### Teamwork
+<div align="center">
+    <h1>Skills</h1><br>
+    <h3>Intermediate Coding in C# and Python</h3><br>
+    <p>Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them.</p><br>
+    <h3>Beginner unity</h3>
+    <p>I have Just started learning unity, my skills include making scripts and making basic maps using premade modules.</p><br>
+    <h3>Time management</h3><br>
+    <p>I ensure that I turn up on <br>time to whatever I have that day, for example university I will always make sure I get there on time with enough time spare in case anything happens.</p><br>
+    <h3>Organisation</h3><b<br>r>
+    <h3>Teamwork</h3>
+</div>
+
 
 
 # Education
