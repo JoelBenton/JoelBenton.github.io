@@ -5,7 +5,7 @@
     <p>Last Udated 17/03/2003</p>
 </div>
 
-<div align="center">
+<div>
   <h1>Personal Details</h1>
   <b>Name</b>: Joel Benton
   <b>Nationality</b>: English
@@ -16,7 +16,7 @@
   <b>Mobile</b>: 07309 858607
 </div>
     
-<div align="center">
+<div>
     <h1>Skills</h1><br>
     <h3>Intermediate Coding in C# and Python</h3><br>
     <p>Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them.</p><br>
