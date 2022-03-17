@@ -4,16 +4,15 @@
     <h1>Joel Benton CV</h1>
     <p>Last Udated 17/03/2003</p>
 </div>
-<div align="center">7
-    # Personal Details
-</div>
+
 <div align="center">
+  <h1>Personal Details<h1>
   <b>Name</b>: Joel Benton<br>
   <b>Nationality</b>: English<br>
   <b>Gender</b>: Male<br>
   <b>Driving Licence</b>: Full<br>
   <b>Address</b>: 27 Auckland Avenue, Ramsgate, Kent CT12 6HZ<br>
-  <b>Email</b>: Joel2003@live.co.uk<br>
+  <b>Email</b>: <a href="mailto:Joel2003@live.co.uk">Joel2003@live.co.uk</a><br>
   <b>Mobile</b>: 07309 858607
 </div>
     
