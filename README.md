@@ -1,4 +1,9 @@
-Personal Details
+<div>
+    <h1>Joel Benton CV</h1>
+    <p>Last Udated 17/03/2003</p>
+</div>
+
+# Personal Details
 Name: Joel Benton					
 Nationality: English
 Gender: Male					
@@ -7,7 +12,7 @@ Address: 27 Auckland Avenue, Ramsgate, Kent. CT12 6HZ
 Email: Joel2003@live.co.uk
 Mobile: 07309 858607
 
-Skills
+# Skills
 -	Intermediate Coding in C# and Python
 o	Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them. 
 -	Beginner unity
@@ -18,7 +23,7 @@ o	I ensure that I turn up on time to whatever I have that day, for example unive
 -	Teamwork
 
 
-Education
+# Education
 King Ethelbert School 2014 – 2019
 BTEC      - Business Level 1&2 - Grade *2				
 D.I.D.A   - Certificate in Digital Apps Level 2 - Grade B			           
@@ -43,7 +48,7 @@ Introduction to C# - 94.78
 Fundamentals of CS – 66.90
 
 
-Work Experience
+# Work Experience
 
 Santander – 2018
 Worked at Santander for 1 week for work experience during secondary school. During this week I observed how the employees would greet and talk to the customers to make them feel welcome.
