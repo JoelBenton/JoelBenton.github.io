@@ -15,14 +15,14 @@ Email: Joel2003@live.co.uk
 Mobile: 07309 858607
 
 # Skills
-## Intermediate Coding in C# and Python
-    o	Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them. 
-## Beginner unity
-    o	I have Just started learning unity, my skills include making scripts and making basic maps using premade modules.
-## Time management
-    o	I ensure that I turn up on time to whatever I have that day, for example university I will always make sure I get there on time with enough time spare in case anything happens.
-## Organisation
-## Teamwork
+### Intermediate Coding in C# and Python
+   o	Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them. 
+### Beginner unity
+   o	I have Just started learning unity, my skills include making scripts and making basic maps using premade modules.
+### Time management
+   o	I ensure that I turn up on time to whatever I have that day, for example university I will always make sure I get there on time with enough time spare in case anything happens.
+### Organisation
+### Teamwork
 
 
 # Education
