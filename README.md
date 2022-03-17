@@ -7,9 +7,9 @@
 
 # Personal Details
 <div>
-    Name: <b>Joel Benton</b>
-    Nationality: <b>English</b>
-    Gender: <b>Male</b>
+    Name: <b>Joel Benton</b><br>
+    Nationality: <b>English</b><br>
+    Gender: <b>Male</b><br>
 Name: Joel Benton					
 Nationality: English
 Gender: Male					
