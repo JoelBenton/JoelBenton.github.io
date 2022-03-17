@@ -6,6 +6,10 @@
 </div>
 
 # Personal Details
+<div>
+    Name: <b>Joel Benton</b>
+    Nationality: <b>English</b>
+    Gender: <b>Male</b>
 Name: Joel Benton					
 Nationality: English
 Gender: Male					
@@ -13,7 +17,8 @@ Driving Licence: Full
 Address: 27 Auckland Avenue, Ramsgate, Kent. CT12 6HZ
 Email: Joel2003@live.co.uk
 Mobile: 07309 858607
-
+</div>
+    
 # Skills
 ### Intermediate Coding in C# and Python
    o	Within these coding languages I am confident in using the basic commands and some more advanced commands without needing to research their functions and ways to use them. 
