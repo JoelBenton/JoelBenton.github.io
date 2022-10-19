@@ -53,6 +53,10 @@
     <p>Mathematics Of CS – 65</p>
     <p>Introduction to C# - 94.78</p>
     <p>Fundamentals of CS – 66.90</p>
+    <p>Software Lifecycle Group Development Project - 62.10</p>
+    <p>Ethics, professionalism and employability in computing - 60.40</p>
+    <p>Application Development  - 57</p>
+    
 </div>
 
 # Work Experience
